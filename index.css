@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e1d9d9;
+    color: #333;
+    margin: 20px;
+  }
+
+  header{
+    color: rgb(119, 113, 198);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #bla section{
+    color: blue;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .img{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    display: flex;
+   
+  }
+
+  footer ol li{
+    background-color: rgb(107, 107, 142);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
